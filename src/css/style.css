@@ -1,0 +1,14 @@
+#fund {
+  background-image: url("../assets/images/taxi.jpg");
+  background-position: center;
+  background-size: cover;
+  width: 100vw;
+  height: 80vh; }
+
+.wrapper {
+  background-color: #F7B617;
+  width: 80%; }
+
+h1 {
+  color: white;
+  font-size: 85%; }
